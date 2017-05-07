@@ -25,10 +25,10 @@ revision: HEAD
 Maintenance
 -----------
 
-Send patches / pull requests to openembedded-devel@lists.openembedded.org
-with '[meta-handheld]' in the subject.
+Send patches / pull requests to this repository
+with '[meta-ghackndev]' in the subject.
 
-Main layer maintainer: Paul Eggleton <paul.eggleton@linux.intel.com>
+Main layer maintainer: Connor O'Brien <connor607@gmail.com>
 
 
 License
