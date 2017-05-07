@@ -1,2 +1,2 @@
-# meta-gpalm
-Base palm layer repository.
+# meta-ghackndev
+Base handheld layer repository.
